@@ -16,7 +16,7 @@ def start_mitm():
     #需要自启
     :return:
     # 开启mitmproxy抓包工具
-    # 'cmd命令执行 mitmdump -s {midu.py | python extract.py'
+    # 'cmd命令执行 mitmdump -s mtdu.py | python extract.py'
     '''
     pass
 def begin_callback():
